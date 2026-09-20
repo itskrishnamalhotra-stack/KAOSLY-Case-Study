@@ -37,21 +37,9 @@ As founder and product developer, I worked across:
 
 Next.js · React · TypeScript · Firebase · Firestore · Cloud Functions · Firebase Storage · PWA · Android TWA · Cashfree integrations
 
-## Selected screens
+## Interface preview
 
-The screenshots below are presentation assets copied from the private product repository. No application source code or private configuration is included.
-
-| Home feed | Profile |
-| --- | --- |
-| ![KAOSLY home feed](assets/screenshots/home-feed.jpg) | ![KAOSLY profile](assets/screenshots/profile.jpg) |
-
-| Aura | Communities |
-| --- | --- |
-| ![KAOSLY Aura](assets/screenshots/aura.jpg) | ![KAOSLY communities](assets/screenshots/communities.jpg) |
-
-| Messages | Tunes |
-| --- | --- |
-| ![KAOSLY messages](assets/screenshots/messages.jpg) | ![KAOSLY Tunes](assets/screenshots/tunes.jpg) |
+No interface images are included in this public case study.
 
 ## Engineering challenges
 

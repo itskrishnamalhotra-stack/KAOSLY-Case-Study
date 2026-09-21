@@ -39,7 +39,19 @@ Next.js · React · TypeScript · Firebase · Firestore · Cloud Functions · Fi
 
 ## Interface preview
 
-No interface images are included in this public case study.
+The following images show a controlled product demonstration. They contain sample creator content and do not expose production configuration, customer records or payment data.
+
+### Publishing and messaging
+
+![KAOSLY publishing and messaging experiences](assets/screenshots/creator-experience.png)
+
+KAOSLY brings discovery, creator posts and direct conversations into one mobile-first experience.
+
+### Communities and Aura
+
+![KAOSLY communities and Aura experiences](assets/screenshots/communities-and-aura.png)
+
+Communities support interest-based participation, while Aura provides a dedicated interactive-story experience.
 
 ## Engineering challenges
 
@@ -52,4 +64,4 @@ No interface images are included in this public case study.
 
 ## Privacy and source availability
 
-The production repository is intentionally private. This case study excludes credentials, customer data, security rules, internal documents and proprietary implementation details.
+The production repository is intentionally private. This case study excludes credentials, production customer data, security rules, internal documents and proprietary implementation details.
